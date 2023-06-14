@@ -21,7 +21,7 @@ After 3 years of experience in developing National Census Applications of Albani
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ASpaCy_logo.svg&psig=AOvVaw1hyAb-kCocZ1YFolHI5u5k&ust=1686802421368000&source=images&cd=vfe&ved=0CBMQjhxqFwoTCLia_-rywf8CFQAAAAAdAAAAABAE" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   
  
   
