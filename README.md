@@ -9,7 +9,7 @@ After 3 years of experience in developing National Census Applications of Albani
 🎓 Natural Language Processing Student in Trier University<br>
 💭 Ask me about <b>NLP, Transformers and Data Analysis</b><br>
 🧠 Currently learning Transformers and HuggingFace Library<br>
-✔️ Reach me at: [sanagerti1995@gmail.com](mailto:gertisana2812@gmail.com)
+✔️ Reach me at: [gertisana2812@gmail.com](mailto:gertisana2812@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
