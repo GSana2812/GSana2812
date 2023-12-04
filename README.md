@@ -11,7 +11,7 @@ After 3 years of experience in developing National Census Applications of Albani
 🧠 Currently learning Transformers and HuggingFace Library<br>
 ✔️ Reach me at: [gertisana2812@gmail.com](mailto:gertisana2812@gmail.com)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
